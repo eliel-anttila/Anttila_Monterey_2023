@@ -1,4 +1,4 @@
-# Anttila_Monterey_2023
+# Anttila_Monterey
 Data and code for core figures of Anttila et al., in review.
 
 
