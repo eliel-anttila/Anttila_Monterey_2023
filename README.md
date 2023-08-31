@@ -1,4 +1,4 @@
-# Anttila_Monterey
+# Anttila_et_al_Monterey_2023
 Manuscript, data and code for core figures of Anttila et al, (2023).
 
 
